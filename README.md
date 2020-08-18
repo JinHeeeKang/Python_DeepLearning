@@ -39,5 +39,17 @@
   - datasets의 Boston 데이터, 주택값 예측
     회귀 분석 및 검증 정리
 
-
+## 8월 18일 머신러닝
+- 로지스틱 회귀 분석
+  - datasets의 breast_cancer 데이터, wine.csv 데이터
+- scaler 변환
+  - StandardScaler
+  - MinMaxScaler
+  - MaxAbsScaler
+  - RobustScaler
+- 모델 평가
+  - confusion_matrix
+- KNN 알고리즘
+  - datasets의 iris 데이터
+- KNN 회귀 알고리즘
 
