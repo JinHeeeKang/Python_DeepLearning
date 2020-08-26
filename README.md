@@ -53,3 +53,9 @@
   - datasets의 iris 데이터
 - KNN 회귀 알고리즘
 
+
+## 8월 25일 머신러닝
+- SVM (Support Vector Machine)
+  - linear 커널
+  - rbf 커널
+- SVR
