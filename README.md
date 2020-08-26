@@ -58,4 +58,4 @@
 - SVM (Support Vector Machine)
   - linear 커널
   - rbf 커널
-- SVR
+- SVR (Support Vector Regression)
