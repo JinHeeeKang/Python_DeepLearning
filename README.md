@@ -59,3 +59,6 @@
   - linear 커널
   - rbf 커널
 - SVR (Support Vector Regression)
+
+## 9월 1일 머신러닝
+- 군집화
