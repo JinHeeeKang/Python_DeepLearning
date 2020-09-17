@@ -60,6 +60,16 @@
   - rbf 커널
 - SVR (Support Vector Regression)
 
+
 ## 9월 1일 머신러닝
 - 군집화
  - 쇼핑 데이터, iris 데이터
+
+
+## 9월 3일 머신러닝
+- 부스팅 Boosting
+  -Ada Boosting
+  -Gradient Boosting
+  -XGBoosting
+  -LightGBM
+    - breast cancer 데이터, wine 데이터
