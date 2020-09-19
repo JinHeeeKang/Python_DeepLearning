@@ -73,3 +73,8 @@
   -XGBoosting
   -LightGBM
     - breast cancer 데이터, wine 데이터
+    
+    
+## 9월 10일 딥러닝
+- 경사 하강법(수치미분)
+- 오차역전파법
