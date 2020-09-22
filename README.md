@@ -68,9 +68,9 @@
 
 
 ## 9월 3일 머신러닝
-- 부스팅 Boosting
-  -Ada Boosting  
-  -Gradient Boosting   
+- 부스팅 Boosting      
+  -Ada Boosting     
+  -Gradient Boosting      
   -XGBoosting   
   -LightGBM   
     - breast cancer 데이터, wine 데이터   
