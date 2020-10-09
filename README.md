@@ -12,5 +12,5 @@
     - keras 패키지 Flatten, Dense
     - cifar10, fashion_mnist 데이터
     
-## 9월 17일 딥러닝   
-- LeNet 구현
+   
+- CNN - LeNet 구현
