@@ -9,5 +9,5 @@
 - CNN - LeNet 구현
 - RNN 
   - SimpleRNN
-  - LSTM 문장생성
-  - seq2seq
+  - LSTM : 문장생성
+  - seq2seq : 3자리수 숫자 계산
