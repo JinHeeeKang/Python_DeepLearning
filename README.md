@@ -7,3 +7,7 @@
     - keras 패키지 Flatten, Dense
     - cifar10, fashion_mnist 데이터   
 - CNN - LeNet 구현
+- RNN 
+  - SimpleRNN
+  - LSTM 문장생성
+  - seq2seq
