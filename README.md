@@ -11,3 +11,8 @@
   - SimpleRNN
   - LSTM : 문장생성
   - seq2seq : 3자리수 숫자 계산
+
+- tokenizing
+  - nltk
+  - spacy
+  - konlpy Okt
