@@ -16,3 +16,6 @@
   - nltk
   - spacy
   - konlpy Okt
+
+- chatbot data 분석
+  - 챗봇에서 수집할 수 있는 데이터를 분석, 명사와 동사만 추출해 워드클라우드  
